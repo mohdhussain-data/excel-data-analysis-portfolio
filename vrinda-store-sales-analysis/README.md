@@ -1,3 +1,8 @@
+## 📊 Dashboard Preview
+![Dashboard](images/dashboard.png)
+
+---
+
 # Vrinda Store Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Objective
